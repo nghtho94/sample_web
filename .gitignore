@@ -24,3 +24,6 @@
 
 # Ignore Idea workspace and vcs
 /.idea
+
+# Ignore Spring to use Guard test
+/spring/*.pid
